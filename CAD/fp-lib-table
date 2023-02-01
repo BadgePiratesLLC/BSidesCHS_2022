@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "BsidesCHS-2022-Badge")(type KiCad)(uri "$(KIPRJMOD)/BsidesCHS-2022-Badge.pretty")(options "")(descr ""))
+)
